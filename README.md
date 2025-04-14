@@ -28,6 +28,7 @@ The goal of this project is to build a robust regression model that can predict 
 - Matplotlib, Seaborn
 - scikit-learn
 - Jupyter Notebook
+- Markdown
 
 ## 🚀 How to Run
 
